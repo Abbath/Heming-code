@@ -7,6 +7,7 @@ for (int i = 11; i>=0; i--) {
 }
 printf("\n");
 }
+//It is main!
 int main (){
 int a[8]={2,4,5,6,8,9,10,11};
 int b[4]={0,1,3,7};
